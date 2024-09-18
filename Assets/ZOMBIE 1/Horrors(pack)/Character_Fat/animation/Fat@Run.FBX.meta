@@ -1,0 +1,1093 @@
+fileFormatVersion: 2
+guid: 40388c60c7ba3974384d07397cc11c9e
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Body
+  - first:
+      1: 100002
+    second: Bone_tube
+  - first:
+      1: 100004
+    second: Character001
+  - first:
+      1: 100006
+    second: Character0011Bone001
+  - first:
+      1: 100008
+    second: Character0011Bone001 1
+  - first:
+      1: 100010
+    second: Character0011Bone002
+  - first:
+      1: 100012
+    second: Character0011Bone002 1
+  - first:
+      1: 100014
+    second: Character001Hub001
+  - first:
+      1: 100016
+    second: Character001Hub001Bone001
+  - first:
+      1: 100018
+    second: Character001Hub002
+  - first:
+      1: 100020
+    second: Character001Hub002Bone001
+  - first:
+      1: 100022
+    second: Character001Hub002Bone001Bone001
+  - first:
+      1: 100024
+    second: Character001Hub002Bone001Bone002
+  - first:
+      1: 100026
+    second: Character001Hub002Bone001Bone003
+  - first:
+      1: 100028
+    second: Character001Hub002Bone001Bone004
+  - first:
+      1: 100030
+    second: Character001Hub002Bone001Bone005
+  - first:
+      1: 100032
+    second: Character001Hub002Bone001Bone006
+  - first:
+      1: 100034
+    second: Character001Hub002Bone001Bone007
+  - first:
+      1: 100036
+    second: Character001LArm1
+  - first:
+      1: 100038
+    second: Character001LArm21
+  - first:
+      1: 100040
+    second: Character001LArm21 1
+  - first:
+      1: 100042
+    second: Character001LArmCollarbone
+  - first:
+      1: 100044
+    second: Character001LArmDigit11
+  - first:
+      1: 100046
+    second: Character001LArmDigit12
+  - first:
+      1: 100048
+    second: Character001LArmDigit13
+  - first:
+      1: 100050
+    second: Character001LArmDigit21
+  - first:
+      1: 100052
+    second: Character001LArmDigit22
+  - first:
+      1: 100054
+    second: Character001LArmDigit23
+  - first:
+      1: 100056
+    second: Character001LArmDigit31
+  - first:
+      1: 100058
+    second: Character001LArmDigit32
+  - first:
+      1: 100060
+    second: Character001LArmDigit33
+  - first:
+      1: 100062
+    second: Character001LArmDigit41
+  - first:
+      1: 100064
+    second: Character001LArmDigit42
+  - first:
+      1: 100066
+    second: Character001LArmDigit43
+  - first:
+      1: 100068
+    second: Character001LArmDigit51
+  - first:
+      1: 100070
+    second: Character001LArmDigit52
+  - first:
+      1: 100072
+    second: Character001LArmDigit53
+  - first:
+      1: 100074
+    second: Character001LArmPalm
+  - first:
+      1: 100076
+    second: Character001LLeg1
+  - first:
+      1: 100078
+    second: Character001LLeg2
+  - first:
+      1: 100080
+    second: Character001LLegAnkle
+  - first:
+      1: 100082
+    second: Character001LLegDigit11
+  - first:
+      1: 100084
+    second: Character001LLegPlatform
+  - first:
+      1: 100086
+    second: Character001RArm1
+  - first:
+      1: 100088
+    second: Character001RArm21
+  - first:
+      1: 100090
+    second: Character001RArm21 1
+  - first:
+      1: 100092
+    second: Character001RArmCollarbone
+  - first:
+      1: 100094
+    second: Character001RArmDigit11
+  - first:
+      1: 100096
+    second: Character001RArmDigit12
+  - first:
+      1: 100098
+    second: Character001RArmDigit13
+  - first:
+      1: 100100
+    second: Character001RArmDigit21
+  - first:
+      1: 100102
+    second: Character001RArmDigit22
+  - first:
+      1: 100104
+    second: Character001RArmDigit23
+  - first:
+      1: 100106
+    second: Character001RArmDigit31
+  - first:
+      1: 100108
+    second: Character001RArmDigit32
+  - first:
+      1: 100110
+    second: Character001RArmDigit33
+  - first:
+      1: 100112
+    second: Character001RArmDigit41
+  - first:
+      1: 100114
+    second: Character001RArmDigit42
+  - first:
+      1: 100116
+    second: Character001RArmDigit43
+  - first:
+      1: 100118
+    second: Character001RArmDigit51
+  - first:
+      1: 100120
+    second: Character001RArmDigit52
+  - first:
+      1: 100122
+    second: Character001RArmDigit53
+  - first:
+      1: 100124
+    second: Character001RArmPalm
+  - first:
+      1: 100126
+    second: Character001RLeg1
+  - first:
+      1: 100128
+    second: Character001RLeg2
+  - first:
+      1: 100130
+    second: Character001RLegAnkle
+  - first:
+      1: 100132
+    second: Character001RLegDigit11
+  - first:
+      1: 100134
+    second: Character001RLegPlatform
+  - first:
+      1: 100136
+    second: Character001Spine1
+  - first:
+      1: 100138
+    second: Character001Spine2
+  - first:
+      1: 100140
+    second: Eyes
+  - first:
+      1: 100142
+    second: //RootNode
+  - first:
+      1: 100144
+    second: Narosti_JoyBox
+  - first:
+      1: 100146
+    second: Narosti_JoyCursor
+  - first:
+      1: 100148
+    second: Narosti_JoyLineH
+  - first:
+      1: 100150
+    second: Narosti_JoyLineV
+  - first:
+      1: 100152
+    second: Narosti_JoyRect
+  - first:
+      1: 100154
+    second: Narosti_JoyText
+  - first:
+      1: 100156
+    second: Teeth_down
+  - first:
+      1: 100158
+    second: Teeth_up
+  - first:
+      1: 100160
+    second: Tube
+  - first:
+      4: 400000
+    second: Body
+  - first:
+      4: 400002
+    second: Bone_tube
+  - first:
+      4: 400004
+    second: Character001
+  - first:
+      4: 400006
+    second: Character0011Bone001
+  - first:
+      4: 400008
+    second: Character0011Bone001 1
+  - first:
+      4: 400010
+    second: Character0011Bone002
+  - first:
+      4: 400012
+    second: Character0011Bone002 1
+  - first:
+      4: 400014
+    second: Character001Hub001
+  - first:
+      4: 400016
+    second: Character001Hub001Bone001
+  - first:
+      4: 400018
+    second: Character001Hub002
+  - first:
+      4: 400020
+    second: Character001Hub002Bone001
+  - first:
+      4: 400022
+    second: Character001Hub002Bone001Bone001
+  - first:
+      4: 400024
+    second: Character001Hub002Bone001Bone002
+  - first:
+      4: 400026
+    second: Character001Hub002Bone001Bone003
+  - first:
+      4: 400028
+    second: Character001Hub002Bone001Bone004
+  - first:
+      4: 400030
+    second: Character001Hub002Bone001Bone005
+  - first:
+      4: 400032
+    second: Character001Hub002Bone001Bone006
+  - first:
+      4: 400034
+    second: Character001Hub002Bone001Bone007
+  - first:
+      4: 400036
+    second: Character001LArm1
+  - first:
+      4: 400038
+    second: Character001LArm21
+  - first:
+      4: 400040
+    second: Character001LArm21 1
+  - first:
+      4: 400042
+    second: Character001LArmCollarbone
+  - first:
+      4: 400044
+    second: Character001LArmDigit11
+  - first:
+      4: 400046
+    second: Character001LArmDigit12
+  - first:
+      4: 400048
+    second: Character001LArmDigit13
+  - first:
+      4: 400050
+    second: Character001LArmDigit21
+  - first:
+      4: 400052
+    second: Character001LArmDigit22
+  - first:
+      4: 400054
+    second: Character001LArmDigit23
+  - first:
+      4: 400056
+    second: Character001LArmDigit31
+  - first:
+      4: 400058
+    second: Character001LArmDigit32
+  - first:
+      4: 400060
+    second: Character001LArmDigit33
+  - first:
+      4: 400062
+    second: Character001LArmDigit41
+  - first:
+      4: 400064
+    second: Character001LArmDigit42
+  - first:
+      4: 400066
+    second: Character001LArmDigit43
+  - first:
+      4: 400068
+    second: Character001LArmDigit51
+  - first:
+      4: 400070
+    second: Character001LArmDigit52
+  - first:
+      4: 400072
+    second: Character001LArmDigit53
+  - first:
+      4: 400074
+    second: Character001LArmPalm
+  - first:
+      4: 400076
+    second: Character001LLeg1
+  - first:
+      4: 400078
+    second: Character001LLeg2
+  - first:
+      4: 400080
+    second: Character001LLegAnkle
+  - first:
+      4: 400082
+    second: Character001LLegDigit11
+  - first:
+      4: 400084
+    second: Character001LLegPlatform
+  - first:
+      4: 400086
+    second: Character001RArm1
+  - first:
+      4: 400088
+    second: Character001RArm21
+  - first:
+      4: 400090
+    second: Character001RArm21 1
+  - first:
+      4: 400092
+    second: Character001RArmCollarbone
+  - first:
+      4: 400094
+    second: Character001RArmDigit11
+  - first:
+      4: 400096
+    second: Character001RArmDigit12
+  - first:
+      4: 400098
+    second: Character001RArmDigit13
+  - first:
+      4: 400100
+    second: Character001RArmDigit21
+  - first:
+      4: 400102
+    second: Character001RArmDigit22
+  - first:
+      4: 400104
+    second: Character001RArmDigit23
+  - first:
+      4: 400106
+    second: Character001RArmDigit31
+  - first:
+      4: 400108
+    second: Character001RArmDigit32
+  - first:
+      4: 400110
+    second: Character001RArmDigit33
+  - first:
+      4: 400112
+    second: Character001RArmDigit41
+  - first:
+      4: 400114
+    second: Character001RArmDigit42
+  - first:
+      4: 400116
+    second: Character001RArmDigit43
+  - first:
+      4: 400118
+    second: Character001RArmDigit51
+  - first:
+      4: 400120
+    second: Character001RArmDigit52
+  - first:
+      4: 400122
+    second: Character001RArmDigit53
+  - first:
+      4: 400124
+    second: Character001RArmPalm
+  - first:
+      4: 400126
+    second: Character001RLeg1
+  - first:
+      4: 400128
+    second: Character001RLeg2
+  - first:
+      4: 400130
+    second: Character001RLegAnkle
+  - first:
+      4: 400132
+    second: Character001RLegDigit11
+  - first:
+      4: 400134
+    second: Character001RLegPlatform
+  - first:
+      4: 400136
+    second: Character001Spine1
+  - first:
+      4: 400138
+    second: Character001Spine2
+  - first:
+      4: 400140
+    second: Eyes
+  - first:
+      4: 400142
+    second: //RootNode
+  - first:
+      4: 400144
+    second: Narosti_JoyBox
+  - first:
+      4: 400146
+    second: Narosti_JoyCursor
+  - first:
+      4: 400148
+    second: Narosti_JoyLineH
+  - first:
+      4: 400150
+    second: Narosti_JoyLineV
+  - first:
+      4: 400152
+    second: Narosti_JoyRect
+  - first:
+      4: 400154
+    second: Narosti_JoyText
+  - first:
+      4: 400156
+    second: Teeth_down
+  - first:
+      4: 400158
+    second: Teeth_up
+  - first:
+      4: 400160
+    second: Tube
+  - first:
+      23: 2300000
+    second: Eyes
+  - first:
+      23: 2300002
+    second: Narosti_JoyCursor
+  - first:
+      23: 2300004
+    second: Teeth_down
+  - first:
+      23: 2300006
+    second: Teeth_up
+  - first:
+      33: 3300000
+    second: Eyes
+  - first:
+      33: 3300002
+    second: Narosti_JoyCursor
+  - first:
+      33: 3300004
+    second: Teeth_down
+  - first:
+      33: 3300006
+    second: Teeth_up
+  - first:
+      43: 4300000
+    second: Body
+  - first:
+      43: 4300002
+    second: Tube
+  - first:
+      43: 4300004
+    second: Teeth_down
+  - first:
+      43: 4300006
+    second: Eyes
+  - first:
+      43: 4300008
+    second: Teeth_up
+  - first:
+      43: 4300010
+    second: Narosti_JoyCursor
+  - first:
+      74: 7400000
+    second: Run
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Body
+  - first:
+      137: 13700002
+    second: Tube
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fat
+    second: {fileID: 2100000, guid: de1efecbf61249e4ea5427e6258aa204, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Standardmaterial
+    second: {fileID: 2100000, guid: 227899b5ddc16604daff6c16f2a8fd37, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: "Avatar Rig Configuration mis-match. Inbetween bone rotation
+      in configuration does not match rotation in animation file:\n\t'Character001RArm1'
+      : rotation error = 42.667793 deg\n\t'Character001LArm1' : rotation error =
+      19.153233 deg\n"
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'Character001Hub001Bone001' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'Character001Hub002Bone001Bone005'
+      has scale animation that will be discarded.\n\t'Character001RArm1' is inbetween
+      humanoid transforms and has rotation animation that will be discarded.\n\t'Character001LArm1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.9
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Fat@Run(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Body
+      parentName: Fat@Run(Clone)
+      position: {x: -0, y: 0, z: 0.097821355}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1.3096, y: 1.3096, z: 1.3096}
+    - name: Tube
+      parentName: Fat@Run(Clone)
+      position: {x: -0, y: 1.1332989, z: 0.9064396}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1.3096, y: 1.3096, z: 1.3096}
+    - name: Character001
+      parentName: Fat@Run(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.50000006, y: -0.50000006, z: -0.49999994, w: 0.49999994}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: Character001LLegPlatform
+      parentName: Fat@Run(Clone)
+      position: {x: -0.18499999, y: 0.08448529, z: 0.5363156}
+      rotation: {x: -0.50000006, y: 0.61237234, z: 0.35355356, w: -0.49999994}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: Character001RLegPlatform
+      parentName: Fat@Run(Clone)
+      position: {x: 0.18499999, y: 0.37600002, z: -0.6309999}
+      rotation: {x: -0.69034564, y: -0.030843701, z: 0.7064338, w: -0.1530459}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: Narosti_JoyBox
+      parentName: Fat@Run(Clone)
+      position: {x: -0.30706722, y: 2.041582, z: 0.000000083569304}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.534545, y: 0.534545, z: 0.534545}
+    - name: Narosti_JoyRect
+      parentName: Narosti_JoyBox
+      position: {x: -0, y: -0.0000000012059501, z: -0.041681565}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Narosti_JoyLineH
+      parentName: Narosti_JoyRect
+      position: {x: 0.25399998, y: 0, z: 4.620233e-14}
+      rotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Narosti_JoyLineV
+      parentName: Narosti_JoyRect
+      position: {x: -0, y: -0.0254, z: 9.240466e-14}
+      rotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Narosti_JoyCursor
+      parentName: Narosti_JoyRect
+      position: {x: 0.008286122, y: 0, z: 4.620233e-14}
+      rotation: {x: -1.4210855e-14, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Narosti_JoyText
+      parentName: Narosti_JoyRect
+      position: {x: -0, y: 0.07620039, z: 4.620233e-14}
+      rotation: {x: -7.1054274e-15, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Character001Hub001
+      parentName: Fat@Run(Clone)
+      position: {x: 4.6924236e-14, y: 0.99450004, z: 0.035712108}
+      rotation: {x: -0.5, y: 0.50000006, z: 0.49999994, w: -0.5}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: Character001Hub001Bone001
+      parentName: Character001Hub001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.104528464, y: -0, z: -0, w: 0.9945219}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Character001Spine1
+      parentName: Character001Hub001Bone001
+      position: {x: -0.18392743, y: -0.07031193, z: 8.662937e-15}
+      rotation: {x: 0.10433654, y: -0.0063372366, z: -0.060295068, w: -0.9926924}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: Character001Spine2
+      parentName: Character001Spine1
+      position: {x: -0.16604887, y: 0, z: 0.000000001513958}
+      rotation: {x: 0.00000032782552, y: -0, z: 0.16024579, w: 0.9870771}
+      scale: {x: 1, y: 1.0000001, z: 0.9999997}
+    - name: Character001Hub002
+      parentName: Character001Spine2
+      position: {x: -0.16604897, y: 0, z: 0}
+      rotation: {x: -0.000000014901161, y: -0.000000029802322, z: 0.21979472, w: -0.9755461}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000004}
+    - name: Character001RArmCollarbone
+      parentName: Character001Hub002
+      position: {x: -0.09593455, y: 0.22212064, z: -0.020069284}
+      rotation: {x: -0.17743324, y: -0.6109254, z: 0.18555538, w: 0.74890375}
+      scale: {x: 1, y: 1, z: 0.9999996}
+    - name: Character001RArm1
+      parentName: Character001RArmCollarbone
+      position: {x: -0.4046065, y: 0, z: 0.00000009689331}
+      rotation: {x: -0.10189089, y: -0.3596919, z: -0.28527904, w: 0.8825282}
+      scale: {x: 1.000002, y: 0.99999994, z: 0.99999887}
+    - name: Character001RArm21
+      parentName: Character001RArm1
+      position: {x: -0.325181, y: 0, z: 0}
+      rotation: {x: 0.059765264, y: 0.26591814, z: 0.011499075, w: 0.9620725}
+      scale: {x: 1.0000055, y: 0.9999998, z: 0.9999952}
+    - name: Character001RArm21 1
+      parentName: Character001RArm21
+      position: {x: -0.18931858, y: 0.000000048446655, z: 0.00000009689331}
+      rotation: {x: -0.0052866326, y: -0.000000018626451, z: 0.000000090687536, w: 0.99998605}
+      scale: {x: 1.0000008, y: 1.0000002, z: 1.0000004}
+    - name: Character001RArmPalm
+      parentName: Character001RArm21 1
+      position: {x: -0.18931852, y: 0, z: -0.00000009689331}
+      rotation: {x: 0.7019016, y: 0.04485075, z: 0.04613615, w: 0.7093617}
+      scale: {x: 1.0000144, y: 0.9999918, z: 0.999994}
+    - name: Character001RArmDigit31
+      parentName: Character001RArmPalm
+      position: {x: -0.17972091, y: -0.0034889344, z: -0.008701843}
+      rotation: {x: 0.0019863243, y: -0.011952977, z: 0.08815584, w: 0.996033}
+      scale: {x: 0.99999017, y: 1.0000099, z: 1.0000004}
+    - name: Character001RArmDigit32
+      parentName: Character001RArmDigit31
+      position: {x: -0.052566268, y: 0.000000048446655, z: 0}
+      rotation: {x: 0.00000030276246, y: 0.00000017323266, z: 0.016040487, w: 0.99987143}
+      scale: {x: 0.9999858, y: 1.0000132, z: 0.9999997}
+    - name: Character001RArmDigit33
+      parentName: Character001RArmDigit32
+      position: {x: -0.041079372, y: 0.000000048446655, z: 0.000000024223327}
+      rotation: {x: 0.000000045608356, y: -0.00000007323772, z: 0.016041186, w: 0.9998713}
+      scale: {x: 0.99998647, y: 1.0000135, z: 1}
+    - name: Character001RArmDigit21
+      parentName: Character001RArmPalm
+      position: {x: -0.17328608, y: -0.012583728, z: -0.05672694}
+      rotation: {x: -0.0024551742, y: -0.02509779, z: 0.089670114, w: 0.99565226}
+      scale: {x: 0.9999898, y: 1.0000099, z: 1.0000002}
+    - name: Character001RArmDigit22
+      parentName: Character001RArmDigit21
+      position: {x: -0.052786894, y: 0, z: 0}
+      rotation: {x: 0.0000002533197, y: 0.00000019371507, z: 0.01946464, w: 0.9998105}
+      scale: {x: 0.9999676, y: 1.0000324, z: 1.0000001}
+    - name: Character001RArmDigit23
+      parentName: Character001RArmDigit22
+      position: {x: -0.03224377, y: 0, z: 0}
+      rotation: {x: -0.000000043562988, y: -0.0000000761858, z: 0.048019186, w: 0.9988464}
+      scale: {x: 1.0000108, y: 0.99998885, z: 1}
+    - name: Character001RArmDigit41
+      parentName: Character001RArmPalm
+      position: {x: -0.17362002, y: -0.008733963, z: 0.035399076}
+      rotation: {x: -0.005981414, y: 0.018349864, z: 0.075064, w: 0.996992}
+      scale: {x: 0.999991, y: 1.0000099, z: 0.9999995}
+    - name: Character001RArmDigit42
+      parentName: Character001RArmDigit41
+      position: {x: -0.048588313, y: 0.000000024223327, z: 0}
+      rotation: {x: 0.000000092200935, y: 0.00000019185245, z: 0.008641928, w: 0.9999627}
+      scale: {x: 0.9999797, y: 1.0000205, z: 1.0000001}
+    - name: Character001RArmDigit43
+      parentName: Character001RArmDigit42
+      position: {x: -0.033031803, y: -0.000000048446655, z: -0.000000012111664}
+      rotation: {x: 0.0000001416891, y: -0.00000008690778, z: 0.019811263, w: 0.9998037}
+      scale: {x: 0.9999918, y: 1.0000069, z: 0.9999995}
+    - name: Character001RArmDigit51
+      parentName: Character001RArmPalm
+      position: {x: -0.15117604, y: -0.031310588, z: 0.07474486}
+      rotation: {x: 0.031683262, y: 0.0203588, z: 0.07286822, w: 0.9966303}
+      scale: {x: 0.999994, y: 1.000008, z: 0.9999991}
+    - name: Character001RArmDigit52
+      parentName: Character001RArmDigit51
+      position: {x: -0.041901413, y: 0, z: 0}
+      rotation: {x: -0.000000007916241, y: -0.000000021420417, z: -0.000000059604638,
+        w: 1}
+      scale: {x: 0.9999729, y: 1.000027, z: 1.0000005}
+    - name: Character001RArmDigit53
+      parentName: Character001RArmDigit52
+      position: {x: -0.019277021, y: 0, z: -0.000000006055832}
+      rotation: {x: -0.000000017695129, y: -0, z: -0.000000029802322, w: 1}
+      scale: {x: 0.99999523, y: 1.0000037, z: 0.9999996}
+    - name: Character001RArmDigit11
+      parentName: Character001RArmPalm
+      position: {x: -0.055216882, y: -0.010694599, z: -0.081793405}
+      rotation: {x: -0.4310436, y: -0.378371, z: -0.09080116, w: 0.8141204}
+      scale: {x: 1.000006, y: 0.99999076, z: 1.0000031}
+    - name: Character001RArmDigit12
+      parentName: Character001RArmDigit11
+      position: {x: -0.053751465, y: 0.000000048446655, z: -0.000000048446655}
+      rotation: {x: 0.000000119209275, y: 0.00000023841855, z: 0.011736853, w: 0.9999311}
+      scale: {x: 0.9999846, y: 0.99999887, z: 1.0000165}
+    - name: Character001RArmDigit13
+      parentName: Character001RArmDigit12
+      position: {x: -0.034848455, y: 0.000000024223327, z: -0.000000048446655}
+      rotation: {x: 0.00000016391277, y: 0.000000029802322, z: 0.013695419, w: 0.99990624}
+      scale: {x: 0.9999824, y: 1.0000024, z: 1.0000144}
+    - name: Bone_tube
+      parentName: Character001RArmPalm
+      position: {x: -0.1017605, y: -0.060815085, z: 0.17922084}
+      rotation: {x: -0.28473237, y: 0.587521, z: 0.64305466, w: -0.40028414}
+      scale: {x: 0.97736204, y: 0.82356024, z: 0.8235645}
+    - name: Character001Hub002Bone001
+      parentName: Character001Hub002
+      position: {x: -0.32394737, y: 0.06251421, z: -0.000000006055832}
+      rotation: {x: -0.000000067055225, y: -0.000000052154064, z: 0.4415414, w: -0.8972409}
+      scale: {x: 0.9999996, y: 1, z: 1}
+    - name: Eyes
+      parentName: Character001Hub002Bone001
+      position: {x: -0.17221725, y: 0.02794965, z: 0.000014921569}
+      rotation: {x: 0.634445, y: 0.31221715, z: -0.634445, w: 0.31221715}
+      scale: {x: 1.3096, y: 1.3096001, z: 1.3096001}
+    - name: Teeth_up
+      parentName: Character001Hub002Bone001
+      position: {x: -0.10417925, y: 0.09122205, z: 0.0003011444}
+      rotation: {x: 0.634445, y: 0.31221715, z: -0.634445, w: 0.31221715}
+      scale: {x: 1.3096, y: 1.3096001, z: 1.3096001}
+    - name: Character001Hub002Bone001Bone002
+      parentName: Character001Hub002Bone001
+      position: {x: -0.057098452, y: 0.14098878, z: 0.022921203}
+      rotation: {x: 0.000000015075901, y: -0.00000008224026, z: -0.674178, w: 0.73856896}
+      scale: {x: 0.9999997, y: 1, z: 1.0000005}
+    - name: Character001Hub002Bone001Bone001
+      parentName: Character001Hub002Bone001
+      position: {x: -0.075465836, y: -0.010752154, z: 0.000000012111664}
+      rotation: {x: 0.000000028035881, y: -0.00000003383027, z: -0.6969303, w: 0.7171389}
+      scale: {x: 0.99999994, y: 0.99999976, z: 0.9999999}
+    - name: Teeth_down
+      parentName: Character001Hub002Bone001Bone001
+      position: {x: -0.0917693, y: -0.03033681, z: 0.0003011444}
+      rotation: {x: 0.20823559, y: 0.67574996, z: -0.20823559, w: 0.67574996}
+      scale: {x: 1.3096, y: 1.3096002, z: 1.3096002}
+    - name: Character001Hub002Bone001Bone005
+      parentName: Character001Hub002Bone001
+      position: {x: -0.20087524, y: -0.033948604, z: 0.067939185}
+      rotation: {x: 0.000000063574994, y: 0.3806964, z: 0.00000006650249, w: 0.92470014}
+      scale: {x: 0.9999999, y: 1, z: 0.99999964}
+    - name: Character001Hub002Bone001Bone003
+      parentName: Character001Hub002Bone001
+      position: {x: -0.17945048, y: 0.027088948, z: 0.044606578}
+      rotation: {x: 0.17115222, y: 0.124576256, z: -0.31956777, w: 0.92361474}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000001}
+    - name: Character001Hub002Bone001Bone007
+      parentName: Character001Hub002Bone001
+      position: {x: -0.18074623, y: -0.11415088, z: 0.076090544}
+      rotation: {x: 0.13080989, y: 0.5011169, z: 0.1245211, w: 0.8463245}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+    - name: Character001Hub002Bone001Bone004
+      parentName: Character001Hub002Bone001
+      position: {x: -0.17945029, y: 0.027089238, z: -0.044606578}
+      rotation: {x: 0.17115203, y: 0.12457638, z: 0.3195677, w: -0.92361474}
+      scale: {x: 1.0000002, y: 1.0000008, z: 0.9999999}
+    - name: Character001Hub002Bone001Bone006
+      parentName: Character001Hub002Bone001
+      position: {x: -0.17876893, y: -0.072479, z: -0.0825211}
+      rotation: {x: 0.01709085, y: 0.5099349, z: -0.028808653, w: -0.8595605}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1.0000004}
+    - name: Character001LArmCollarbone
+      parentName: Character001Hub002
+      position: {x: -0.095934644, y: 0.22212064, z: 0.02006928}
+      rotation: {x: -0.17743313, y: -0.6109252, z: -0.1855553, w: -0.748904}
+      scale: {x: 0.9999997, y: 1.0000005, z: 1}
+    - name: Character001LArm1
+      parentName: Character001LArmCollarbone
+      position: {x: -0.40460655, y: 0, z: 0}
+      rotation: {x: 0.10189141, y: 0.359693, z: -0.28527927, w: 0.8825276}
+      scale: {x: 1.0000018, y: 0.9999998, z: 0.9999987}
+    - name: Character001LArm21
+      parentName: Character001LArm1
+      position: {x: -0.32518107, y: -0.00000009689331, z: -0.00000009689331}
+      rotation: {x: -0.059765093, y: -0.26591945, z: 0.0114994645, w: 0.9620722}
+      scale: {x: 0.9999953, y: 0.9999998, z: 1.0000045}
+    - name: Character001LArm21 1
+      parentName: Character001LArm21
+      position: {x: -0.18931848, y: -0.000000024223327, z: 0}
+      rotation: {x: 0.005286612, y: -0.000000040978183, z: 0.00000008341156, w: 0.9999861}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1}
+    - name: Character001LArmPalm
+      parentName: Character001LArm21 1
+      position: {x: -0.18931852, y: -0.000000024223327, z: 0}
+      rotation: {x: -0.70190173, y: -0.04485063, z: 0.04613619, w: 0.7093617}
+      scale: {x: 0.9999852, y: 1.000012, z: 1.0000032}
+    - name: Character001LArmDigit31
+      parentName: Character001LArmPalm
+      position: {x: -0.17971587, y: -0.0034889344, z: 0.008702134}
+      rotation: {x: -0.0019872475, y: 0.0119552445, z: 0.088144906, w: 0.99603397}
+      scale: {x: 1.0000091, y: 0.99999005, z: 0.9999997}
+    - name: Character001LArmDigit32
+      parentName: Character001LArmDigit31
+      position: {x: -0.052566268, y: 0, z: -0.000000024223327}
+      rotation: {x: 0.0000002669124, y: 0.00000012645641, z: 0.016042257, w: 0.9998714}
+      scale: {x: 1.0000145, y: 0.99998647, z: 1.0000005}
+    - name: Character001LArmDigit33
+      parentName: Character001LArmDigit32
+      position: {x: -0.041079372, y: 0, z: 0}
+      rotation: {x: 0.000000114526046, y: -0.000000044534836, z: 0.016041182, w: 0.9998714}
+      scale: {x: 1.000014, y: 0.9999858, z: 1}
+    - name: Character001LArmDigit21
+      parentName: Character001LArmPalm
+      position: {x: -0.17328124, y: -0.012583825, z: 0.056728587}
+      rotation: {x: 0.0024547563, y: 0.025097938, z: 0.08966028, w: 0.9956531}
+      scale: {x: 1.0000098, y: 0.99999005, z: 0.99999946}
+    - name: Character001LArmDigit22
+      parentName: Character001LArmDigit21
+      position: {x: -0.05278699, y: 0, z: 0}
+      rotation: {x: 0.00000024400651, y: 0.000000037252903, z: 0.0194666, w: 0.9998105}
+      scale: {x: 1.0000186, y: 0.99998134, z: 1}
+    - name: Character001LArmDigit23
+      parentName: Character001LArmDigit22
+      position: {x: -0.032243673, y: 0, z: 0}
+      rotation: {x: -0.000000032111195, y: -0.00000005281755, z: 0.048019063, w: 0.9988465}
+      scale: {x: 1.0000112, y: 0.99998915, z: 1.0000002}
+    - name: Character001LArmDigit41
+      parentName: Character001LArmPalm
+      position: {x: -0.17361508, y: -0.0087340595, z: -0.035400067}
+      rotation: {x: 0.005980906, y: -0.018344065, z: 0.075055316, w: 0.9969927}
+      scale: {x: 1.0000091, y: 0.99999064, z: 1.0000005}
+    - name: Character001LArmDigit42
+      parentName: Character001LArmDigit41
+      position: {x: -0.048588313, y: 0, z: -0.000000024223327}
+      rotation: {x: 0.00000016763805, y: 0.000000059604638, z: 0.008643799, w: 0.9999626}
+      scale: {x: 1.0000281, y: 0.9999718, z: 0.99999994}
+    - name: Character001LArmDigit43
+      parentName: Character001LArmDigit42
+      position: {x: -0.0330319, y: 0, z: 0}
+      rotation: {x: -0.00000000786103, y: 0.0000000853603, z: 0.019811273, w: 0.9998038}
+      scale: {x: 1.0000058, y: 0.9999927, z: 0.99999994}
+    - name: Character001LArmDigit51
+      parentName: Character001LArmPalm
+      position: {x: -0.15117125, y: -0.031310298, z: -0.07474703}
+      rotation: {x: -0.031684525, y: -0.020351565, z: 0.07285596, w: 0.99663126}
+      scale: {x: 1.0000066, y: 0.99999255, z: 1.000001}
+    - name: Character001LArmDigit52
+      parentName: Character001LArmDigit51
+      position: {x: -0.04190151, y: 0.000000048446655, z: -0.000000012111664}
+      rotation: {x: 0.000000013969837, y: 0.000000013969837, z: -0.0000000021682351,
+        w: 1}
+      scale: {x: 1.0000249, y: 0.9999755, z: 1.0000001}
+    - name: Character001LArmDigit53
+      parentName: Character001LArmDigit52
+      position: {x: -0.019277021, y: 0, z: 0.000000012111664}
+      rotation: {x: -0.000000060535946, y: -0.00000009592619, z: 0.0000000063591856,
+        w: 1}
+      scale: {x: 1.0000064, y: 0.9999939, z: 1.0000002}
+    - name: Character001LArmDigit11
+      parentName: Character001LArmPalm
+      position: {x: -0.055215426, y: -0.010694696, z: 0.08179573}
+      rotation: {x: 0.43103758, y: 0.37836206, z: -0.090809494, w: 0.8141268}
+      scale: {x: 0.99999595, y: 1.0000112, z: 0.99999183}
+    - name: Character001LArmDigit12
+      parentName: Character001LArmDigit11
+      position: {x: -0.053751465, y: 0, z: -0.000000048446655}
+      rotation: {x: 0.00000011920929, y: -0.00000017881393, z: 0.011736959, w: 0.99993116}
+      scale: {x: 1.0000137, y: 1.0000017, z: 0.9999855}
+    - name: Character001LArmDigit13
+      parentName: Character001LArmDigit12
+      position: {x: -0.034848455, y: 0, z: 0}
+      rotation: {x: 0.00000014901161, y: 0.00000011920929, z: 0.013695419, w: 0.99990624}
+      scale: {x: 1.0000154, y: 0.9999991, z: 0.99998504}
+    - name: Character001LLeg1
+      parentName: Character001Hub001
+      position: {x: -0.05022145, y: 0.008420568, z: 0.1737876}
+      rotation: {x: 0.039291263, y: -0.99801224, z: -0.020860657, w: -0.044639546}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000004}
+    - name: Character001LLeg2
+      parentName: Character001LLeg1
+      position: {x: -0.530721, y: 0.000026015854, z: -0.0000027856827}
+      rotation: {x: -0.0054855696, y: 0.0007373281, z: 0.22909594, w: 0.9733882}
+      scale: {x: 1.0000004, y: 0.9999997, z: 1.0000001}
+    - name: Character001LLegAnkle
+      parentName: Character001LLeg2
+      position: {x: -0.37589487, y: -0.000000024223327, z: 0}
+      rotation: {x: -0.018770577, y: 0.020421488, z: -0.6138302, w: 0.78895074}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999994}
+    - name: Character001LLegDigit11
+      parentName: Character001LLegAnkle
+      position: {x: -0.24805951, y: 0, z: -0.000000009083748}
+      rotation: {x: -0.015416636, y: 0.014183203, z: -0.3087086, w: 0.95092595}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: Character0011Bone001
+      parentName: Character001LLeg2
+      position: {x: -0.31630966, y: 0.06214754, z: -0.07106918}
+      rotation: {x: 0.0033928207, y: 0.01849746, z: -0.19376616, w: 0.9808675}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000001}
+    - name: Character0011Bone002
+      parentName: Character001LLeg2
+      position: {x: -0.30773872, y: 0.05038658, z: 0.05766186}
+      rotation: {x: 0.004367346, y: 0.047476005, z: -0.18513256, w: 0.9815564}
+      scale: {x: 1.0000005, y: 0.9999999, z: 1}
+    - name: Character001RLeg1
+      parentName: Character001Hub001
+      position: {x: -0.05022145, y: 0.008420561, z: -0.1737876}
+      rotation: {x: 0.03929165, y: -0.99801224, z: 0.020860732, w: 0.044639483}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+    - name: Character001RLeg2
+      parentName: Character001RLeg1
+      position: {x: -0.53072095, y: 0.000025955294, z: 0.0000027856827}
+      rotation: {x: 0.005485304, y: -0.0007399246, z: 0.2293873, w: 0.97331953}
+      scale: {x: 1.0000004, y: 1.0000001, z: 0.9999998}
+    - name: Character001RLegAnkle
+      parentName: Character001RLeg2
+      position: {x: -0.37589496, y: 0, z: 0.000000048446655}
+      rotation: {x: 0.018763855, y: -0.020426257, z: -0.6140659, w: 0.7887673}
+      scale: {x: 0.9999998, y: 0.9999998, z: 1}
+    - name: Character001RLegDigit11
+      parentName: Character001RLegAnkle
+      position: {x: -0.24805951, y: 0, z: 0}
+      rotation: {x: 0.015416702, y: -0.014183101, z: -0.30870888, w: 0.9509259}
+      scale: {x: 1.0000004, y: 0.99999976, z: 0.9999999}
+    - name: Character0011Bone001 1
+      parentName: Character001RLeg2
+      position: {x: -0.3163098, y: 0.062147465, z: 0.07106921}
+      rotation: {x: -0.0033947271, y: -0.018497145, z: -0.19376627, w: 0.98086745}
+      scale: {x: 0.9999998, y: 1.0000004, z: 1}
+    - name: Character0011Bone002 1
+      parentName: Character001RLeg2
+      position: {x: -0.30773878, y: 0.050386652, z: -0.057661742}
+      rotation: {x: -0.004363044, y: -0.047476817, z: -0.1851324, w: 0.9815564}
+      scale: {x: 0.99999946, y: 1, z: 0.99999976}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
